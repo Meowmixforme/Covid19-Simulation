@@ -62,11 +62,7 @@ This project models the spread of Covid-19 within a population using NetLogo. It
 - The model can be extended to include age-based survival rates, lockdown measures, and multiple vaccine types.
 - While simplified for educational use, the simulation demonstrates core concepts of epidemic modelling and intervention strategies.
 
-## Licence
 
-This project is for educational purposes.  
-Copyright © James Fothergill  
-Teesside University
 
 
 Click the image to view the video demonstration
