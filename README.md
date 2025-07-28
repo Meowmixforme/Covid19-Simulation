@@ -2,7 +2,7 @@
 
 An agent-based simulation of Covid-19 transmission and vaccination, developed for a second-year Artificial Intelligence module at Teesside University.
 
-<img width="1024" height="1024" alt="freepik__cartoon-virus-of-covid-19-spreading-to-stick-men-w__50510" src="https://github.com/user-attachments/assets/9cc5b30e-68bc-4e19-8a29-3a86b2fcc63c" />
+<img width="500" height="500" alt="freepik__cartoon-virus-of-covid-19-spreading-to-stick-men-w__50510" src="https://github.com/user-attachments/assets/9cc5b30e-68bc-4e19-8a29-3a86b2fcc63c" />
 
 
 ## Overview
