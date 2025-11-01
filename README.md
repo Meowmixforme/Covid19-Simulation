@@ -71,4 +71,4 @@ This project models the spread of Covid-19 within a population using NetLogo. It
 Click the image to view the video demonstration
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QhhFxVyi_8g/0.jpg)](https://youtu.be/QhhFxVyi_8g)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W_G63Ru1NFk/0.jpg)](https://youtu.be/W_G63Ru1NFk)
